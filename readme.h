@@ -5,4 +5,5 @@ Git is a version control system.
 Github is great.
 I have an account in Github: zhanghongt23.
 Create a new branch is quick and simple.
+You can forbid fast forward mode.
 
